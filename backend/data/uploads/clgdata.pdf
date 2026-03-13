@@ -1,0 +1,105 @@
+{
+                "category": "college_info",
+                "content": "Ekdant Institute of Technology is a private engineering college located in Pune, India."
+            },
+            {
+                "category": "departments",
+                "content": "The college has four main departments: Computer Science, Artificial Intelligence & Data Science, Electronics & Communication, and Mechanical Engineering."
+            },
+            {
+                "category": "departments",
+                "content": "The college has four main departments: Computer Science, Artificial Intelligence & Data Science, Electronics & Communication, and Mechanical Engineering."
+            },
+            {
+                "category": "departments",
+                "content": "The Computer Science department offers cutting-edge programs in software development, algorithms, and system design. It is one of the most sought-after departments at Ekdant Institute."
+            },
+            {
+                "category": "departments",
+                "content": "The Artificial Intelligence & Data Science department specializes in machine learning, deep learning, big data analytics, and AI research. This is a newly established department with modern facilities."
+            },
+            {
+                "category": "departments",
+                "content": "The Electronics & Communication department focuses on embedded systems, signal processing, VLSI design, and telecommunications."
+            },
+            {
+                "category": "departments",
+                "content": "The Mechanical Engineering department covers thermal engineering, manufacturing, robotics, and automotive engineering."
+            },
+            {
+                "category": "courses",
+                "content": "Ekdant Institute offers B.Tech in Computer Science Engineering with an intake of 120 seats. This is a four-year undergraduate program."
+            },
+            {
+              "category": "courses",
+              "content": "AI-related courses offered include B.Tech in Artificial Intelligence & Data Science with 60 seats and M.Tech in Data Science with 30 seats."
+            }
+            ,
+            {
+                "category": "courses",
+                "content": "M.Tech in Data Science is a two-year postgraduate program with 30 seats, designed for advanced study in data science, machine learning, and analytics."
+            },
+            {
+                "category": "courses",
+                "content": "All B.Tech programs follow a semester system with theory, practical, and project components. Students must complete internships and final year projects."
+            },
+            {
+                "category": "facilities",
+                "content": "The college has a Central Library with over 50,000 books, digital resources, e-journals, and a dedicated reading area. The library is open from 8 AM to 8 PM on weekdays."
+            },
+            {
+                "category": "facilities",
+                "content": "The AI Research Lab is equipped with high-performance computing systems, GPU servers, and advanced software for machine learning and AI research projects."
+            },
+            {
+                "category": "facilities",
+                "content": "Smart Classrooms are available in all academic blocks, featuring digital boards, projectors, audio systems, and high-speed internet connectivity."
+            },
+            {
+                "category": "facilities",
+                "content": "The college provides separate hostel facilities for boys and girls with amenities like Wi-Fi, mess, recreation room, and 24/7 security. The cafeteria serves hygienic food with multiple cuisine options."
+            },
+            {
+                "category": "facilities",
+                "content": "Sports facilities include a playground, indoor sports complex, gymnasium, and courts for basketball, volleyball, and badminton."
+            },
+            {
+                "category": "academic_rules",
+                "content": "Students must maintain a minimum attendance of 75% in all subjects to be eligible for semester examinations. Medical certificates are required for extended absences."
+            },
+            {
+                "category": "academic_rules",
+                "content": "Semester examinations are conducted twice a year, typically in December and May. The academic year consists of two semesters: odd semester (July-December) and even semester (January-May)."
+            },
+            {
+                "category": "academic_rules",
+                "content": "Students must maintain a CGPA of at least 5.0 out of 10 to continue in the program. Academic probation is given to students scoring below this threshold."
+            },
+            {
+                "category": "academic_rules",
+                "content": "Plagiarism in assignments, projects, or examinations is strictly prohibited and may lead to disciplinary action including suspension."
+            },
+            {
+                "category": "events",
+                "content": "TechNova is the annual technical festival of Ekdant Institute, held in March every year. It features technical competitions, guest lectures, project exhibitions, and cultural events."
+            },
+            {
+                "category": "events",
+                "content": "CodeStorm is a 48-hour hackathon organized by the Computer Science department, usually held in October. Students from various colleges participate to solve real-world problems."
+            },
+            {
+                "category": "events",
+                "content": "The college organizes regular workshops, seminars, and industrial visits throughout the academic year to enhance practical knowledge and industry exposure."
+            },
+            {
+                "category": "contact",
+                "content": "Ekdant Institute of Technology is located at Survey No. 45, Hinjewadi Phase 2, Pune - 411057, Maharashtra, India."
+            },
+            {
+                "category": "contact",
+                "content": "For admissions inquiries, contact the admissions office at admissions@ekdant.edu.in or call +91-20-12345678. Office hours are 9 AM to 5 PM on weekdays."
+            },
+            {
+                "category": "contact",
+                "content": "The main administrative office can be reached at info@ekdant.edu.in. For placement-related queries, email placements@ekdant.edu.in."
+            }
